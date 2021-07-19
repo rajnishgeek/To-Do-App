@@ -2,6 +2,16 @@
 
 ## This is a todo app. This app is build to solve people daily life problem. User can create own todo task list on the basis of task priority and complete all task one by one. After completing the task user can unmark the task in todo list and continue with the left tasks.
 
+### Functionalities:-
+
+1. create todo task list.
+2. unmark completed task.
+
+### Technologies Used:-
+
+1. Flutter
+2. Dart
+
 
 ## To-Do App UI
 
