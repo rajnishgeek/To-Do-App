@@ -32,5 +32,11 @@
   <img src="images/6.jpg" width="260" height="540" align="center">
 </div>
 
+### Unmarking complete task in todo list:
+
+<div>
+  <img src="images/7.jpg" width="260" height="540" align="center">
+</div>
+
 
 
