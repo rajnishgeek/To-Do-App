@@ -3,7 +3,7 @@
 ## This is a to do app
 
 
-## To-Do App UI:
+## To-Do App UI
 
 ### Main Page UI:
 
@@ -38,5 +38,8 @@
   <img src="images/7.jpg" width="260" height="540" align="center">
 </div>
 
+## Demo Video
+
+https://user-images.githubusercontent.com/50834301/126167052-4f5b2fac-b584-47fb-969e-c1b179fe2e5c.mp4
 
 
