@@ -1,10 +1,10 @@
 # To-Do App
 ## This is a to do app
 
-### To-Do App UI:
+## To-Do App UI:
 
-## Main Page UI:
+### Main Page UI:
 
 <div>
-  <img src="images/1.jpd" width="260" height="540" align="center">
+  <img src="images/1.jpg" width="260" height="540" align="center">
 </div>
