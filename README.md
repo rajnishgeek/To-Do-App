@@ -1,6 +1,6 @@
 # To-Do App
 
-## This is a to do app
+## This is a todo app. This app is build to solve people daily life problem. User can create own todo task list on the basis of task priority and complete all task one by one. After completing the task user can unmark the task in todo list and continue with the left tasks.
 
 
 ## To-Do App UI
