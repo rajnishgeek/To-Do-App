@@ -12,16 +12,21 @@
 </div>
 
 
-### Adding task:
+### Adding task in todo list:
 
 <div>
   <img src="images/2.jpg" width="260" height="540" align="left">
   <img src="images/3.jpg" width="260" height="540" align="center">
-  <img src="images/4.jpg" width="260" height="540" align="right">
 </div>
 
-### Added task result page:
+### Result page of task added in todo list:
 
 <div>
   <img src="images/4.jpg" width="260" height="540" align="left">
+</div>
+
+### Adding more task in todo list:
+
+<div>
+  <img src="images/5.jpg" width="260" height="540" align="left">
 </div>
