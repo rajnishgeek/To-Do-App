@@ -19,3 +19,9 @@
   <img src="images/3.jpg" width="260" height="540" align="center">
   <img src="images/4.jpg" width="260" height="540" align="right">
 </div>
+
+### Added task result page:
+
+<div>
+  <img src="images/4.jpg" width="260" height="540" align="left">
+</div>
